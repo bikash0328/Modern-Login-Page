@@ -4,9 +4,8 @@ In this tutorial. I'm going to show you how to use modern HTML, CSS, and JavaScr
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+[screenshot](https://github.com/bikash0328/Modern-Login-Page/assets/171179870/ca211e34-c599-417f-9042-df6df34d79cc)
 
-# Bikash Coding
-
+# Bikash Coding!
 We create a project each 4 days.
 You can vote for upcoming projects on our channel **community** page :wink:
